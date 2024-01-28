@@ -1,12 +1,10 @@
-### Coursework: Advances in Data Sciences and Architecture
-
-Welcome to the coursework repository for "Advances in Data Sciences and Architecture." Below is the list of assignments for this course:
-
-1. **"Understanding Data" Assignment 1**
-   - Description: Explore fundamental concepts in understanding data.
-   - Status: [x]  Completed
-   - Notebook: <a href="https://githubtocolab.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Stock-Price-Analysis-Worked-Examples/python-code/Understanding_Data_Market_Stock_Price_Prediction_Shreya_Jaiswal_002747677.ipynb">
-    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+<hr>
+<hr>
+## Predicting Stock Prices with LSTM
+<hr>
+<hr>
+<a href="https://githubtocolab.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Stock-Price-Analysis-Worked-Examples/python-code/Understanding_Data_Market_Stock_Price_Prediction_Shreya_Jaiswal_002747677.ipynb">
+<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
 
 2. **"Understanding Data" Assignment 1 Worked Examples**
    - Description: Examples illustrating concepts covered in Assignment 1.

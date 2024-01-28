@@ -1,0 +1,8 @@
+- Python 3.x
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- scikit-learn
+- TensorFlow/Keras

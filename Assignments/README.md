@@ -31,7 +31,7 @@
 3. **"Understanding Data" Assignment 1 Crash Course in Data Quiz Questions**
    - Description: Quiz questions to reinforce understanding of data concepts.
    - Status: [x] Completed
-   - Quiz: <a href="https://github.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Assignment-Quiz-Questions.pdf">
+   - Quiz: <a href="https://github.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Assignment-Quiz-Questions.pdf"> Open Quiz 1 </a>
 
 <hr>
 

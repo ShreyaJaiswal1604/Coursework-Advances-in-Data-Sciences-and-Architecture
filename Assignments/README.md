@@ -25,7 +25,7 @@
    - Notebook: <a href="https://githubtocolab.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Stock-Price-Analysis-Worked-Examples/python-code/Understanding_Data_Worked_Example_Shreya_Jaiswal_002747677.ipynb">
     <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
 
-    <hr>
+<hr>
 
 
 3. **"Understanding Data" Assignment 1 Crash Course in Data Quiz Questions**
@@ -33,40 +33,40 @@
    - Status: [x] Completed
    - Quiz: <a href="https://github.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Assignment-Quiz-Questions.pdf">
 
-   <hr>
+<hr>
 
 4. **"Creating Data with Generative AI" Assignment 2**
    - Description: Learn about generating data using Generative AI techniques.
    - Status: [ ] Not Completed
   
-   <hr>
+<hr>
 
 
 5. **"Creating Data with Generative AI" Assignment 2 Quiz Questions**
    - Description: Quiz questions to test knowledge of Generative AI concepts.
    - Status: [ ] Not Completed
 
-   <hr>
+<hr>
 
 
 6. **Crash Course in Generative AI Worked Examples**
    - Description: Examples demonstrating concepts covered in Generative AI.
    - Status: [ ] Not Completed
 
-   <hr>
+<hr>
 
 
 7. **Crash Course in Causality Written Section**
    - Description: Explore the principles of causality in data science.
    - Status: [ ] Not Completed
 
-   <hr>
+<hr>
 
 8. **Crash Course in Causality Worked Examples**
    - Description: Examples illustrating concepts covered in the Crash Course in Causality.
    - Status: [ ] Not Completed
 
-   <hr>
+<hr>
 
 
 9. **Crash Course in Causality Quiz Questions**

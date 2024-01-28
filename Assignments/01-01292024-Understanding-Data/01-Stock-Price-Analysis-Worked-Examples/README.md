@@ -1,4 +1,14 @@
-### Predicting Stock Prices with LSTM
+<hr>
+<hr>
+## Predicting Stock Prices with LSTM
+<hr>
+<hr>
+<a href="https://githubtocolab.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/01-01292024-Understanding-Data/01-Stock-Price-Analysis-Worked-Examples/python-code/Understanding_Data_Market_Stock_Price_Prediction_Shreya_Jaiswal_002747677.ipynb">
+<img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+
+
+<hr>
+
 
 This repository contains code for predicting stock prices using Long Short-Term Memory (LSTM) models. The example focuses on predicting the stock prices of Apple Inc. (AAPL) using historical stock market data obtained from Yahoo Finance.
 

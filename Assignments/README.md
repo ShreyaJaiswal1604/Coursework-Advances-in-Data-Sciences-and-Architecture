@@ -58,20 +58,26 @@
 
 7. **Crash Course in Causality Written Section**
    - Description: Explore the principles of causality in data science.
-   - Status: [ ] Not Completed
+   - Status: [x] Completed
+   - Notebook: <a href="https://colab.research.google.com/github/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/02-03232024-Causality/Crash_Course_in_Causality_Customer_Segmentation_at_An_Online_Media_Company.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
+
 
 <hr>
 
 8. **Crash Course in Causality Worked Examples**
    - Description: Examples illustrating concepts covered in the Crash Course in Causality.
-   - Status: [ ] Not Completed
+   - Status: [x] Completed
+   - Notebook: <a href="https://colab.research.google.com/github/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/02-03232024-Causality/02-Worked-Examples-Causality/Crash_Course_Causality_Worked_Example.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
 
 <hr>
 
 
 9. **Crash Course in Causality Quiz Questions**
    - Description: Quiz questions to assess understanding of causality concepts.
-   - Status: [ ] Not Completed
+   - Status: [x]  Completed
+   - Quiz: <a href="https://github.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/02-03232024-Causality/Causality-Quiz-Questions-002747677.pdf"> Open Quiz 1 </a>
   
 <hr>
 

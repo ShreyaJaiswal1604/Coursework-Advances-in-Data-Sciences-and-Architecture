@@ -1,6 +1,6 @@
 ---
-
-## <center> Customer Segmentation-Case Study-Causal Inference using EconML and Dowhy</center>
+## <center>Crash Course in Causality</center>
+## <h3><center> Customer Segmentation-Case Study-Causal Inference using EconML and Dowhy</center></h3>
 
 ---
 ![Alt Text](https://github.com/ShreyaJaiswal1604/EconML_Customer_Segmentation_Case_Study/blob/main/images/OIG4.Tv5iK0NH_UBWGMErZXZj.jpeg)
@@ -10,6 +10,10 @@
 ## Overview
 
 Welcome to the Dynamic Business Insights project! This repository explores the application of fundamental concepts such as causality, causation, and causal inference in the realm of statistical analysis, with a specific focus on a real-world case study: Customer Segmentation at an Online Media Company.
+
+## Introduction to Causality
+<iframe src="https://drive.google.com/file/d/1K-avstsl0ZDqWnqU6D2-QS5V787e0f8H/view?usp=drive_link" width="800" height="600"></iframe>
+
 
 ## Key Concepts
 

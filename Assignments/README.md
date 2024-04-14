@@ -37,21 +37,21 @@
 
 4. **"Creating Data with Generative AI" Assignment 2**
    - Description: Learn about generating data using Generative AI techniques.
-   - Status: [ ] Not Completed
+   - Status: [x] Completed
   
 <hr>
 
 
 5. **"Creating Data with Generative AI" Assignment 2 Quiz Questions**
    - Description: Quiz questions to test knowledge of Generative AI concepts.
-   - Status: [ ] Not Completed
+   - Status: [x] Completed
 
 <hr>
 
 
 6. **Crash Course in Generative AI Worked Examples**
    - Description: Examples demonstrating concepts covered in Generative AI.
-   - Status: [ ] Not Completed
+   - Status: [x] Completed
 
 <hr>
 

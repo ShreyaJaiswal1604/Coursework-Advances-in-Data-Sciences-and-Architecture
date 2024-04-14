@@ -38,6 +38,8 @@
 4. **"Creating Data with Generative AI" Assignment 2**
    - Description: Learn about generating data using Generative AI techniques.
    - Status: [x] Completed
+   - Notebook: <a href="https://github.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/03-04132024-Generative-AI-Data/GenAI_Pdf_Chatbot_QnA_Shreya_Jaiswal_002747677.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
   
 <hr>
 
@@ -52,6 +54,8 @@
 6. **Crash Course in Generative AI Worked Examples**
    - Description: Examples demonstrating concepts covered in Generative AI.
    - Status: [x] Completed
+   - Notebook: <a href="https://github.com/ShreyaJaiswal1604/Coursework-Advances-in-Data-Sciences-and-Architecture/blob/main/Assignments/03-04132024-Generative-AI-Data/02-Worked-Examply-GenAI/GenAI_Chatbot_Worked_Example_Shreya_Jaiswal_002747677.ipynb">
+    <img src="https://www.tensorflow.org/images/colab_logo_32px.png" />Run in Google Colab</a>
 
 <hr>
 
